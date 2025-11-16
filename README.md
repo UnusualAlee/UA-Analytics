@@ -13,11 +13,9 @@ Venture into my portfolio to discover impactful solutions and projects i have fe
  - Google Sheets
 
 ## Featured projects
-- [
+- [Understanding the Buying Behavior of Nigerians] (https://github.com/UnusualAlee/Buying-Behavior-of-Nigerians-Analysis)
 
+## Currently Learning
 
-
-
-
-
-
+- SQL
+- Power BI
